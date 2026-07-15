@@ -523,10 +523,9 @@
         <div class="polaroid mx-auto" style="--rotation: -5deg;">
           <div class="bg-gray-100 w-full h-56 rounded-md overflow-hidden flex items-center justify-center border border-gray-200 relative group">
             <!-- Simulated image placeholder with custom SVG/Icon -->
-            <div class="absolute inset-0 bg-gradient-to-br from-pink-400/20 to-purple-600/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
-              <i class="fas fa-images text-4xl mb-2"></i>
-              <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Sweet Wedding Photo Here</span>
-            </div>
+            <img src="https://raw.githubusercontent.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/main/IMG_20260714_234910.jpg"
+     alt="Our Beautiful Moments Together"
+     class="w-full h-full object-cover rounded-md">
           </div>
           <div class="text-center font-cursive text-2xl text-[#310411] mt-4 font-bold">Unending Joy</div>
         </div>
