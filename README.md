@@ -552,9 +552,9 @@
         <!-- Polaroid 4 -->
         <div class="polaroid mx-auto" style="--rotation: 6deg;">
           <div class="bg-gray-100 w-full h-56 rounded-md overflow-hidden flex items-center justify-center border border-gray-200 relative group">
-            <div class="absolute inset-0 bg-gradient-to-br from-[#a11b3c]/20 to-indigo-500/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
-              <i class="fas fa-glass-cheers text-4xl mb-2"></i>
-              <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Anniversary Photo Here</span>
+            <img src="https://raw.githubusercontent.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/main/IMG_20260714_234937.jpg"
+     alt="Our Beautiful Moments Together"
+     class="w-full h-full object-cover rounded-md">
             </div>
           </div>
           <div class="text-center font-cursive text-2xl text-[#310411] mt-4 font-bold">Our Anniversary mela pyali patni jii</div>
