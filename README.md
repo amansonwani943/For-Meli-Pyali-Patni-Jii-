@@ -533,12 +533,9 @@
         <!-- Polaroid 2 -->
         <div class="polaroid mx-auto" style="--rotation: 3deg;">
           <div class="bg-gray-100 w-full h-56 rounded-md overflow-hidden flex items-center justify-center border border-gray-200 relative group">
-            <div class="absolute inset-0 bg-gradient-to-br from-purple-400/20 to-roseGold/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
-              <i class="fas fa-heart text-4xl mb-2"></i>
-              <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Sweet Vacation Photo Here</span>
-            </div>
-          </div>
-          <div class="text-center font-cursive text-2xl text-[#310411] mt-4 font-bold">First Date</div>
+            <img src="https://raw.githubusercontent.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/main/Snapchat-1291428695.jpg"
+     alt="Our Beautiful Moments Together"
+     class="w-full h-full object-cover rounded-md">
         </div>
 
         <!-- Polaroid 3 -->
