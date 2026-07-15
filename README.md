@@ -534,7 +534,7 @@
             <div class="absolute inset-0 bg-gradient-to-br from-purple-400/20 to-roseGold/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
               <i class="fas fa-heart text-4xl mb-2"></i>
               <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Sweet Our Precious Moments Together Here Mela Bacchaaa</span>
-            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/IMG_20260714_234910.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
+            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/IMG_20260312_225050.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
 
         <!-- Polaroid 3 -->
         <div class="polaroid mx-auto" style="--rotation: -3deg;">
@@ -542,7 +542,7 @@
             <div class="absolute inset-0 bg-gradient-to-br from-yellow-300/20 to-pink-500/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
               <i class="fas fa-camera text-4xl mb-2"></i>
               <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Sweet Our Precious Moments Together Here Mela Bacchaaa</span>
-            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/IMG_20260714_234910.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
+            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/IMG_20260714_234937.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
 
         <!-- Polaroid 4 -->
         <div class="polaroid mx-auto" style="--rotation: 6deg;">
@@ -550,7 +550,7 @@
             <div class="absolute inset-0 bg-gradient-to-br from-[#a11b3c]/20 to-indigo-500/30 flex flex-col items-center justify-center text-pink-500/60 p-4">
               <i class="fas fa-glass-cheers text-4xl mb-2"></i>
               <span class="text-[10px] text-gray-500 uppercase tracking-widest font-semibold text-center">Add Sweet Our Precious Moments Together Here Mela Bacchaaa</span>
-            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/IMG_20260714_234910.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
+            <imgsrc="https://github.com/amansonwani943/For-Meli-Pyali-Patni-Jii-/blob/main/Snapchat-1291428695.jpg"alt="Our Beautiful Moments Together"class="w-full h-full object-cover rounded-md">
 
       </div>
     </section>
